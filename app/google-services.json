@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328998121297",
+    "firebase_url": "https://lnct-assist-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "lnct-assist",
+    "storage_bucket": "lnct-assist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328998121297:android:340b516092cd2f90666d70",
+        "android_client_info": {
+          "package_name": "com.celes.complaincorner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328998121297-5u89ch13ssndb2j0t1jc5loiq2sga4vu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8T3LzAHsq9740WCA0PmEt7qa0l0Q0V2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328998121297-5u89ch13ssndb2j0t1jc5loiq2sga4vu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

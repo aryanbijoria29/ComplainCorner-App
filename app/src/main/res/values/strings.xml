@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ComplainCorner</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="sign_in"><u>Sign In</u></string>
+    <string name="resend"><u>Resend</u></string>
+    <string name="warning">⚠️ You\'ll receive a verification email.</string>
+    <string name="verifyHelp">ℹ️ Check spam folder before resending email.</string>
+    <string name="forgetPassword"><b><u>Forgot Password?</u></b></string>
+    <string name="aboutUS">This app is built using Android Studio in Java Language and uses Google firebase as the database.</string>
+    <string-array name="job">
+        <item>Student</item>
+        <item>Authority</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about_us">About Us</string>
+    <string name="register_your_complaint"><b><u>Register Your Complaint:</u></b></string>
+    <string name="upload_image"><b><u>Upload Image</u></b></string>
+    <string name="suggestions"><b><u>Suggestions:</u></b></string>
+    <string name="status">Status: </string>
+    <string name="set_status"><b><u>Set Status</u></b></string>
+    <string-array name="compType">
+        <item>Accounts related</item>
+        <item>Bus related</item>
+        <item>Management related</item>
+        <item>Other</item>
+    </string-array>
+</resources>
